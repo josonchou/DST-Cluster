@@ -2,7 +2,7 @@ KLEI     1 return {
   enabled_mods={  },
   server={
     clan={ admin=false, id="", only=false },
-    description="",
+    description="完美世界",
     encode_user_path=true,
     game_mode="survival",
     intention="cooperative",
@@ -12,8 +12,7 @@ KLEI     1 return {
     password="666666",
     privacy_type=0,
     pvp=false,
-    server_language="zh",
-    use_legacy_session_path=false 
+    server_language="zh" 
   },
   session_id="6CAA0360EC804FAB",
   version=4,
