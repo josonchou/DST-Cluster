@@ -1,1 +1,37 @@
-return {  }
+return {
+  ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
+  ["workshop-378160973"]={
+    configuration_options={
+      ENABLEPINGS=true,
+      FIREOPTIONS=2,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=true,
+      SHOWFIREICONS=true,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
+    },
+    enabled=true 
+  },
+  ["workshop-569043634"]={
+    configuration_options={
+      Health_Penalty_Generic="Unchanged",
+      Health_Penalty_Maximum="Unchanged",
+      Health_Penalty_Meat_Effigy="Unchanged",
+      Health_Penalty_Portal="Unchanged",
+      Health_Respawn_Amount="Unchanged",
+      KeepInventory="Unchanged",
+      NoPlayerSkeletons="Unchanged",
+      ReturnHotkey="Unchanged",
+      ReturnHotkey_Mode="Closest",
+      SpawnProtection="Unchanged",
+      campfire="Enabled",
+      coldfire="Enabled",
+      coldfirepit="Enabled",
+      firepit="Enabled",
+      reviver="Unchanged",
+      skeleton="Unchanged",
+      usetags="Unchanged" 
+    },
+    enabled=true 
+  } 
+}
