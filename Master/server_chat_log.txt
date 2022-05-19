@@ -1,2 +1,4 @@
-[00:02:05]: [Join Announcement] 周先森
-[00:04:27]: [Leave Announcement] 周先森
+[00:01:20]: [Join Announcement] 周先森
+[00:01:31]: [Vote Announcement] regenerate passed
+[00:02:09]: [Vote Announcement] regenerate passed
+[00:03:23]: [Leave Announcement] 周先森
