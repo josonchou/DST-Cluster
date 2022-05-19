@@ -132,7 +132,7 @@ return {
     spiders_setting="default",
     spring="default",
     squid="default",
-    start_location="default",
+    start_location="plus",
     summer="default",
     summerhounds="default",
     tallbirds="default",
