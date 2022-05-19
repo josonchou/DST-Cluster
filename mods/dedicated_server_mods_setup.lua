@@ -20,7 +20,7 @@
 ServerModSetup("362175979") -- Wormhole Marks 标记相联通的虫洞
 ServerModSetup("378160973") -- Global Positions     小地图显示玩家位置 共享地图发现
 ServerModSetup("385006082") -- DST Path Lights      路径灯在黄昏时开启，在黎明时关闭
-ServerModSetup("444235588") -- Deluxe Campfires     豪华营火 增加燃烧时间
+-- ServerModSetup("444235588") -- Deluxe Campfires     豪华营火 增加燃烧时间
 ServerModSetup("458940297") -- FFood Values         显示食物价值
 ServerModSetup("462372013") -- Always fresh         冰箱里物品永远不坏 
 ServerModSetup("666155465") -- Show Me              鼠标显示更多信息
@@ -35,7 +35,7 @@ ServerModSetup("365119238") -- Smarter Crock Pot 聪明的锅？
 ServerModCollectionSetup("362175979")
 ServerModCollectionSetup("378160973")
 ServerModCollectionSetup("385006082")
-ServerModCollectionSetup("444235588")
+-- ServerModCollectionSetup("444235588")
 ServerModCollectionSetup("458940297")
 ServerModCollectionSetup("462372013")
 ServerModCollectionSetup("666155465")
