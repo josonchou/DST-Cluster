@@ -3,6 +3,6 @@ KLEI     1 return {
 	worldgen_preset = "DST_CAVE",
 	settings_preset = "DST_CAVE",
 	overrides = {
-		start_location = "default",
+		["start_location"] = "default",
 	},
 }

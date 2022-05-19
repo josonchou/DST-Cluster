@@ -34,21 +34,6 @@ return {
       configuration_options={ [""]=0, FueledLights="no", light_color="color1", path_lightrecipe="easy" },
       enabled=true 
     },
-    ["workshop-444235588"]={
-      configuration_options={
-        deluxeEndoFirepitBurnRate=0.75,
-        deluxeFirepitBurnRate=0.75,
-        dropLoot="yes",
-        endoDropLoot="yes",
-        heatStarBurnRate=0.75,
-        heatStarDropLoot="yes",
-        iceStarBurnRate=0.75,
-        iceStarDropLoot="yes",
-        recipeCost="standard",
-        starsSpawnHounds="no" 
-      },
-      enabled=true 
-    },
     ["workshop-458940297"]={
       configuration_options={
         DFV_ClientPrediction="default",
