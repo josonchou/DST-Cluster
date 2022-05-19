@@ -651,3 +651,19 @@
 [00:01:07]: Sim paused
 [00:06:06]: Registering secondary shard in Sing lobby
 [00:11:06]: Registering secondary shard in Sing lobby
+[00:13:01]: Available disk space for save files: 23513 MB
+[00:13:02]: Serializing world: session/55C836A0073B2BA1/0000000005
+[00:13:02]: [Shard] Stopping shard mode
+[00:13:02]: [Steam] SendUserDisconnect for ''
+[00:13:02]: Collecting garbage...
+[00:13:02]: lua_gc took 0.20 seconds
+[00:13:02]: ~ShardLuaProxy()
+[00:13:02]: ~cEventLeaderboardProxy()
+[00:13:02]: ~ItemServerLuaProxy()
+[00:13:02]: ~InventoryLuaProxy()
+[00:13:02]: ~NetworkLuaProxy()
+[00:13:02]: ~SimLuaProxy()
+[00:13:02]: lua_close took 0.27 seconds
+[00:13:02]: CurlRequestManager::ClientThread::Main() complete
+[00:13:02]: HttpClient2 discarded 0 callbacks.
+[00:13:03]: Shutting down

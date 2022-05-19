@@ -725,3 +725,20 @@
 [00:01:06]: Validating portal[1] <-> 142241293[1] (disabled)	
 [00:01:06]: Validating portal[3] <-> 142241293[3] (disabled)	
 [00:01:06]: Validating portal[2] <-> 142241293[2] (disabled)	
+[00:13:01]: Available disk space for save files: 23513 MB
+[00:13:02]: Serializing world: session/2A5D707FF2038FFC/0000000005
+[00:13:02]: Removing server from lobby
+[00:13:02]: [Shard] Stopping shard mode
+[00:13:02]: [Steam] SendUserDisconnect for ''
+[00:13:02]: Collecting garbage...
+[00:13:02]: lua_gc took 0.33 seconds
+[00:13:03]: ~ShardLuaProxy()
+[00:13:03]: ~cEventLeaderboardProxy()
+[00:13:03]: ~ItemServerLuaProxy()
+[00:13:03]: ~InventoryLuaProxy()
+[00:13:03]: ~NetworkLuaProxy()
+[00:13:03]: ~SimLuaProxy()
+[00:13:03]: lua_close took 0.44 seconds
+[00:13:03]: CurlRequestManager::ClientThread::Main() complete
+[00:13:03]: HttpClient2 discarded 1 callbacks.
+[00:13:03]: Shutting down
