@@ -1,0 +1,82 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 506376
+[00:00:00]: Current time: Thu May 19 16:43:12 2022
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: 4af602456c6c
+[00:00:00]: Release(Kernel) Version: 5.4.0-108-generic
+[00:00:00]: Kernel Build Timestamp: #122-Ubuntu SMP Tue Mar 29 07:34:30 UTC 2022
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 506376 LINUX
+[00:00:00]: Build Date: 8002
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -persistent_storage_root /data -ugc_directory /data/ugc -only_update_server_mods 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (4138781504)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 12346)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:4.08
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Success)
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Success)
+[00:00:00]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Success)
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: THREAD - started 'Ping Job Thread' (4081036096)
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: THREAD - started 'StreamInput' (4078934848)
+[00:00:00]: AppVersion::GetArchitecture() x32
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:17]: DownloadPublishedFile [10] 362175979
+[00:00:17]: DownloadPublishedFile [10] 378160973
+[00:00:17]: DownloadPublishedFile [10] 385006082
+[00:00:17]: DownloadPublishedFile [10] 458940297
+[00:00:17]: DownloadPublishedFile [10] 462372013
+[00:00:17]: DownloadPublishedFile [10] 786556008
+[00:00:17]: DownloadPublishedFile [10] 831523966
+[00:00:17]: DownloadPublishedFile [10] 1301033176
+[00:00:17]: DownloadPublishedFile [10] 1200745268
+[00:00:17]: DownloadPublishedFile [10] 365119238
+[00:00:24]: OnDownloadPublishedFile [37] 362175979
+[00:00:25]: OnDownloadPublishedFile [37] 378160973
+[00:00:27]: OnDownloadPublishedFile [37] 385006082
+[00:00:30]: OnDownloadPublishedFile [37] 458940297
+[00:00:31]: OnDownloadPublishedFile [37] 462372013
+[00:00:32]: OnDownloadPublishedFile [37] 786556008
+[00:00:33]: OnDownloadPublishedFile [37] 831523966
+[00:00:33]: OnDownloadPublishedFile [37] 1301033176
+[00:00:34]: OnDownloadPublishedFile [37] 1200745268
+[00:00:35]: OnDownloadPublishedFile [37] 365119238
+[00:00:48]: FinishDownloadingServerMods Complete!
