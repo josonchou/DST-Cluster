@@ -94,5 +94,5 @@ return {
       configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
       enabled=true 
     },
-    ["workshop-831523966"]={ configuration_options={ soul_stack=20, stack_size=999 }, enabled=true } 
+    ["workshop-831523966"]={ configuration_options={ soul_stack=20, stack_size=99 }, enabled=true } 
   }

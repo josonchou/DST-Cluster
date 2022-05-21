@@ -1,0 +1,52 @@
+[00:11:56]: [Join Announcement] LuoKe
+[00:12:49]: [Join Announcement] 犹豫就会败北
+[00:40:07]: [Death Announcement] LuoKe 死亡，死因： 鱼人。他变成了一个令人毛骨悚然的鬼！
+[00:41:48]: [Resurrect Announcement] LuoKe 复活自 石头篝火
+Remaining burn time: 2:29.
+[00:52:58]: [Death Announcement] LuoKe 死亡，死因： 树精守卫。他变成了一个令人毛骨悚然的鬼！
+[00:54:27]: [Resurrect Announcement] LuoKe 复活自 石头篝火
+Remaining burn time: 1:25.
+[01:00:04]: [Death Announcement] LuoKe 死亡，死因： 树精守卫。他变成了一个令人毛骨悚然的鬼！
+[01:00:12]: [Resurrect Announcement] LuoKe 复活自 石头篝火
+Remaining burn time: 1:121.
+[01:14:48]: [Join Announcement] 周先森
+[01:16:32]: [Leave Announcement] 犹豫就会败北
+[01:17:37]: [Leave Announcement] 周先森
+[01:27:20]: [Leave Announcement] LuoKe
+[01:39:53]: [Join Announcement] lostOne
+[01:43:45]: [Skin Announcement] lostOne feet_workboot_brown_walnut
+[02:07:16]: [Leave Announcement] lostOne
+[20:03:19]: [Join Announcement] lostOne
+[20:06:21]: [Death Announcement] lostOne 死亡，死因： 蜘蛛战士。她变成了一个令人毛骨悚然的鬼！
+[20:07:15]: [Resurrect Announcement] lostOne 复活自 石头篝火
+Remaining burn time: 1:33.
+[20:34:33]: [Skin Announcement] lostOne feet_wendy_nature
+[20:54:15]: [Leave Announcement] lostOne
+[00:07:46]: [Join Announcement] 犹豫就会败北
+[00:13:22]: [Skin Announcement] 犹豫就会败北 hand_wickerbottom_magma
+[00:58:33]: [Leave Announcement] 犹豫就会败北
+[01:20:50]: [Join Announcement] 犹豫就会败北
+[01:39:36]: [Join Announcement] lostOne
+[01:55:31]: [Death Announcement] lostOne 死亡，死因： 独眼巨鹿。她变成了一个令人毛骨悚然的鬼！
+[01:55:36]: [Resurrect Announcement] lostOne 复活自 石头篝火
+Remaining burn time: 0:34.
+[01:56:45]: [Death Announcement] lostOne 死亡，死因： 独眼巨鹿。她变成了一个令人毛骨悚然的鬼！
+[01:56:53]: [Resurrect Announcement] lostOne 复活自 石头篝火
+Remaining burn time: 0:13.
+[01:57:14]: [Death Announcement] lostOne 死亡，死因： 猎犬。她变成了一个令人毛骨悚然的鬼！
+[01:58:17]: [Death Announcement] 犹豫就会败北 死亡，死因： 严寒。她变成了一个令人毛骨悚然的鬼！
+[02:02:10]: [Leave Announcement] lostOne
+[02:03:17]: [Join Announcement] lostOne
+[02:17:45]: [Join Announcement] Hanclsorne_Shaw
+[02:19:50]: [Join Announcement] 周先森
+[02:24:09]: [Leave Announcement] Hanclsorne_Shaw
+[02:27:05]: [Join Announcement] Hanclsorne_Shaw
+[02:52:46]: [Leave Announcement] 周先森
+[02:52:50]: [Leave Announcement] Hanclsorne_Shaw
+[02:55:14]: [Join Announcement] 周先森
+[02:57:39]: [Skin Announcement] 犹豫就会败北 hand_wormwood_rose
+[03:51:28]: [Skin Announcement] 犹豫就会败北 body_tshirt_white_smoke
+[04:19:32]: [Skin Announcement] lostOne legs_walter_detective
+[04:49:09]: [Leave Announcement] lostOne
+[04:56:36]: [Leave Announcement] 犹豫就会败北
+[04:58:48]: [Leave Announcement] 周先森

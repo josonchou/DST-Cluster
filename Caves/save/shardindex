@@ -101,7 +101,7 @@ KLEI     1 return {
       ["enabled"]=true 
     },
     ["workshop-831523966"]={
-      ["configuration_options"]={ ["soul_stack"]=20, ["stack_size"]=999 },
+      ["configuration_options"]={ ["soul_stack"]=20, ["stack_size"]=99 },
       ["enabled"]=true 
     } 
   },
@@ -119,7 +119,7 @@ KLEI     1 return {
     ["pvp"]=false,
     ["server_language"]="en" 
   },
-  ["session_id"]="4C3E4C7E4F9A633B",
+  ["session_id"]="5CAF9D613ED42870",
   ["version"]=4,
   ["world"]={
     ["options"]={
